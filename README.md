@@ -120,8 +120,9 @@ You can add screenshots here.
 
 Example:
 
-- <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/e1bea553-2d33-4058-9af9-ac9493ae51aa" />
-- <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/cd7b579a-da22-4c28-9726-15ed6ca2cb56" />
+-Dashboard
+ <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/e1bea553-2d33-4058-9af9-ac9493ae51aa" />
+ <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/cd7b579a-da22-4c28-9726-15ed6ca2cb56" />
 
 
 - Doctor Management
