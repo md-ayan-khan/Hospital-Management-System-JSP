@@ -152,7 +152,6 @@ Example:
 - Doctor Workload Report
 - Recent Activity Dashboard
 - MySQL Database
-- Print Functionality
 - Easy to Understand Code
 
 ---
