@@ -128,10 +128,17 @@ Example:
   <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/c560ae6e-9a9c-48ae-957e-fb7acf3aa1d0" />
 
 - Doctor Management
-- Department Management
+  <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/789a00f0-f829-4fd0-8109-9e8f506d7dac" />
+  <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/0dc69c1a-d045-4fb8-a3c3-b7892909396b" />
+
 - Appointment Management
+  <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/0604b146-15fc-43d8-b778-a19266102079" />
+  <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/9f3683e4-3b13-4ca4-869c-6f6c0583ec0c" />
+
+  
+- Department Management
 - Billing Management
-- Reports
+- etc
 
 ---
 
